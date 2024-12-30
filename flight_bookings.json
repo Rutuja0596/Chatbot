@@ -1,0 +1,14 @@
+[
+    {
+        "name": "rqwerty",
+        "contact": "1234567890",
+        "boarding_city": "Pune",
+        "destination_city": "mumbai"
+    },
+    {
+        "name": "qwerty",
+        "contact": "1234567890",
+        "boarding_city": "Mumbai",
+        "destination_city": "Pune"
+    }
+]
